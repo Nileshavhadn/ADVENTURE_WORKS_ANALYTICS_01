@@ -101,12 +101,4 @@ This project presents an interactive Power BI dashboard built using the Adventur
 
 This dashboard helps stakeholders monitor business performance, identify growth opportunities, and make informed strategic decisions through interactive data visualization.
 
-## 👨‍💻 Author
 
-**Nilesh A.**
-
-- Data Analytics Enthusiast
-- SQL | Power BI | Excel
-- Open to Data Analyst Opportunities
-
-## ⭐ If you found this project useful, please consider giving it a star!
