@@ -59,8 +59,7 @@ This project presents an interactive Power BI dashboard built using the Adventur
 - Compared regional sales performance.
 - Tracked business growth metrics.
 
-## 📷 Data model
-<img width="620" height="435" alt="01_DATA_MODEL" src="https://github.com/user-attachments/assets/39718e80-2d0e-4333-8f35-c1d3c7d78c03" />
+
 
 
 ### Sales Dashboard
