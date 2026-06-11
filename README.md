@@ -81,9 +81,8 @@ This project presents an interactive Power BI dashboard built using the Adventur
 
 ## 📂 Project Files
 
-- AdventureWorks.pbix
-- README.md
 - Dashboard Screenshots
+- - README.md
 
 ## 🚀 Skills Demonstrated
 
